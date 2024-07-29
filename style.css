@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Slate Pro';
+    src: local('Slate Pro Bold'), local('Slate-Pro-Bold'),
+        url('SlatePro-Bold.woff2') format('woff2'),
+        url('SlatePro-Bold.woff') format('woff'),
+        url('SlatePro-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+
+body {
+    height: auto;
+    margin: 0;
+    padding: 0;
+  }
+
+  
